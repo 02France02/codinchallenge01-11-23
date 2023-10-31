@@ -1,0 +1,85 @@
+body{
+    background-image: url(Immagini/background.jpg) ;
+    background-size: 100% ;
+    text-align: center;
+    
+    
+}
+
+
+.container{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    width: 60%;
+}
+
+
+
+header > h1{
+    color: rgb(36, 209, 36);
+}
+        
+    
+       
+
+.mod-imagine{
+        height: 80px 
+    
+}
+
+
+nav{
+    background-color: rgb(45, 211, 45);
+    width: 100%;
+    margin: auto;
+    padding: 7px;
+
+}
+
+main  {
+    width: 40%;
+}
+
+.mono-gino{
+    text-align: left; 
+    
+}
+
+.align-main-left{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.0);
+    
+    width: 80%;
+}
+
+.mono-gino-text{
+    color: white;
+    
+}
+
+.color-row{
+    color: rgb(148, 148, 88);
+    background-color: rgb(148, 148, 88);
+    border-radius: 3px;
+
+}   
+
+.color-row1{
+    color: rgb(17, 190, 46);
+    background-color: rgb(17, 190, 46);
+    border-radius: 3px;
+    width: 150%;
+
+}   
+
+.color-row2{
+    color:red;
+    background-color: red;
+    border-radius: 3px;
+    width: 30%;
+}   
+
+.text-gino22{
+    font-size: 22px;
+}
